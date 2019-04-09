@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/coreactail/static/js/runtime~main.e5301717.js"
   },
   {
-    "revision": "2f234fc0d27154d05b66",
-    "url": "/coreactail/static/js/main.27ca041b.chunk.js"
+    "revision": "bfa1dd7b68454bf421b1",
+    "url": "/coreactail/static/js/main.e76b0b71.chunk.js"
   },
   {
-    "revision": "2aba7b94bfc474e7c636",
-    "url": "/coreactail/static/js/2.108e142a.chunk.js"
+    "revision": "653ae0037ecf312cf463",
+    "url": "/coreactail/static/js/2.a9e8e862.chunk.js"
   },
   {
-    "revision": "2f234fc0d27154d05b66",
+    "revision": "bfa1dd7b68454bf421b1",
     "url": "/coreactail/static/css/main.6d7723f6.chunk.css"
   },
   {
-    "revision": "2aba7b94bfc474e7c636",
+    "revision": "653ae0037ecf312cf463",
     "url": "/coreactail/static/css/2.c7733192.chunk.css"
   },
   {
-    "revision": "9e80d7ff6a52f528655085ff11b6db78",
+    "revision": "80c7afe120f0917c168ba6f126fa835e",
     "url": "/coreactail/index.html"
   }
 ];
